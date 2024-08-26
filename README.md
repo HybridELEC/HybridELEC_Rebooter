@@ -3,6 +3,8 @@ Release-only repo for the HybridELEC Rebooter app used in Android+CE+EE firmware
 
 There would've been sources here, but sadly I've lost the source of a lot of my old projects after an disk breakage. The sources would be opened here after a rewrite is finished, similarly to hepacker.
 
+The existing apks here lack shortcuts which would be added later after the rewrite. For that now, check https://github.com/HybridELEC/HybridELEC_Rebooter/issues/1 to download a shortcut-only apk to use in combination with the rebooter.
+
 ## Releases (newest first)
 Unless you want to dig back for some history, there is no real reason to use the older version
 ### [1.0.2](../../releases/tag/1.0.2): 20230125
